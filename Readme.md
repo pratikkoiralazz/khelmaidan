@@ -35,9 +35,9 @@ Upon registration, **KhelMaidan** instantly provisions a custom-branded, standal
 
 ### System Architecture
 The platform utilizes dynamic routing middleware to resolve incoming requests to specific tenant accounts based on the subdomain or custom domain host header.
-
+---
 
 **27th sept 2026**
 
----
+
  Pratik Koirala
